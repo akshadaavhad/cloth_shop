@@ -1,0 +1,9 @@
+.navbar {
+    width: 90%;
+  }
+
+  .logo {
+    mix-blend-mode: multiply;
+    width: 200px;
+    height: 100px;
+  }
