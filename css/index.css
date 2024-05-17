@@ -7,3 +7,24 @@
     width: 200px;
     height: 100px;
   }
+
+  /*light dark mode*/
+.theme-icon{
+    height: 30px;
+    width: 30px;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: none;
+    background-color: white; 
+  }
+  .active-mode{
+    border: 1.5px solid;    
+  }
+  .theme-dark{
+    background-color: black;
+    color: white;
+  }
+  .theme-light{
+    background-color:white;
+    color: black;
+  }
